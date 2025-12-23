@@ -6,7 +6,8 @@ A simple full-stack web application built with Next.js and Supabase to collect a
 Users can submit feedback messages, optionally provide their name or remain anonymous, and view recent feedback from others.
 
 ---
-anonymous-feedback-isoejdfpi-josetg21s-projects.vercel.app
+project link: anonymous-feedback-isoejdfpi-josetg21s-projects.vercel.app
+supabase: https://supabase.com/dashboard/project/wxmkmddnuxxqmuxcapue/settings/api-keys
 
 ## Project Overview(including prospective features that will be added in the future)
 
