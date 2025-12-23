@@ -35,4 +35,9 @@ This project showcases a complete full-stack web app with:
 - Git & GitHub for version control  
 - CSS 
 
+##Things I Learned
+
+-I learned a lot about backend data bases such as spabase, they seem quite useful for holding data and using it
+-I learned and still have a lot to learn about apis
+-I still am having a hard time trying to deploy with vercel, I dont know exactly why
 ---
